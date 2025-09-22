@@ -8,4 +8,7 @@ public class userController {
 
     public void logout() {
     }
+    public void selectUser(){
+
+    }
 }
