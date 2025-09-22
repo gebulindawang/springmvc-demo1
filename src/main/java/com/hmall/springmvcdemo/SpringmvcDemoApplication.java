@@ -10,4 +10,10 @@ public class SpringmvcDemoApplication {
         SpringApplication.run(SpringmvcDemoApplication.class, args);
     }
 
+
+    public String logout(){
+        System.out.println("登出成功");
+        return "logout success";
+
+    }
 }
