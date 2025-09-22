@@ -7,6 +7,5 @@ public class userController {
     }
 
     public void logout() {
-
     }
 }
